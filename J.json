@@ -7,12 +7,10 @@
   "chapters": {
     "101": {
       "title": "101",
-      "volume": "",
+      "volume": "10",
       "last_updated": "1694868585",
       "groups": {
-        "": [
-          "https://imgur.com/a/pKv5K6J"
-        ]
+        "Eve": "/proxy/api/imgur/chapter/ljO3DB5"
       }
     }
   }
